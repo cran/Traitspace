@@ -1,0 +1,10 @@
+#exportPattern("^[[:alpha:]]+")  #exports all functions incl utility functions to the end user
+
+export(check, distTraitspace, plotComb, plotCorr, plotEach, print.traitspace, pval, Traitspace, TraitspaceMod, trueP)
+
+# Import all packages listed as Imports or Depends
+import(permute, mclust, graphics, grDevices, stats, utils)
+
+#S3method("plot", "traitspace")
+S3method("print", "traitspace")
+
