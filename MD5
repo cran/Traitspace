@@ -1,10 +1,10 @@
-453f5ac4101ea924c3bc49e14450b4d6 *DESCRIPTION
+0235c4fe59005d899cf7e45030fa2170 *DESCRIPTION
 25e37e1dfbdf16502eaeecdc1f44d34c *NAMESPACE
 469425370088e797591bd55ac2287064 *R/Lstep.R
 0adccf743850494fcaf85ce38b5d8038 *R/Mstep.R
 90ebd7f7478f51237ec058146c4ee69b *R/Qstep.R
-ed5a97feb480dabf995af761331ba98d *R/Traitspace.R
-19650e69be86f439d56b015392e2903a *R/TraitspaceMod.R
+588ad9149edfbabb963a62b1dbcece9d *R/Traitspace.R
+20724d1789833ff271bdb0cc759f4d3a *R/TraitspaceMod.R
 c992ca92c23f26181e58763b2b8391d6 *R/check.R
 86b34f8780dd33bb78c24d65d0c4d87e *R/distTraitspace.R
 42a013b654122e21ac8116e9068f7da7 *R/plotComb.R
@@ -15,7 +15,7 @@ c15e1747d78b90b44ca68767cabbda7d *R/print.traitspace.R
 583b3466ea41b221f33821d3ea83871c *R/step_2A.R
 b83c4ac99e2cc3f9888ff1d49b117a8a *R/step_2B.R
 269a5547d0afb1d0f54cf50ae5d8732d *R/step_2C.R
-d79489eeb0dad2504f77f7f71b487690 *R/step_2D.R
+56425beab9b5bcc1b6d47605c203b84c *R/step_2D.R
 34364347a211b74d8964d153d72733fe *R/trueP.R
 c3b8951f1671f08b4ff904478ad95a55 *data/spdata.rda
 6cfc3a74b8bf3f913fc391fbfed4fcb7 *man/Traitspace.Rd

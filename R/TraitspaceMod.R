@@ -35,7 +35,7 @@ step_2C <- step_2C(P_level_2_level_1,level_1)
 P_level_1_level_2_level_3 <- step_2C$P_level_1_level_2_level_3
 
 # step_2D 
-step_2D <- step_2D(P_level_2_level_3, P_level_1_level_2_level_3, N,level_1,site.name,pred.site)
+step_2D <- step_2D(P_level_2_level_3, P_level_1_level_2_level_3, N,level_1,level_3,pred.site)
 
 #trueP
 true.p <- trueP(level_1, site.name)
